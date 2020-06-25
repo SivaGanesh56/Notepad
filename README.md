@@ -4,10 +4,10 @@ A nextJs fullStack application to create quick notes
 
 ## Tech Stack
 
-NextJs
-MongoDB
-React
-Semantic-UI
+##### NextJs
+##### MongoDB
+##### React
+##### Semantic-UI
 
 ## Getting Started
 
